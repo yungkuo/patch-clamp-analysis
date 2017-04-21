@@ -7,3 +7,4 @@
 ##### Exp 1 Cell1: http://nbviewer.jupyter.org/github/yungkuo/patch-clamp-analysis/blob/master/patch%20clamp%20analysis-Exp1%20Cell1.ipynb
 
 ##### Demo code for compiled results: http://nbviewer.jupyter.org/github/yungkuo/patch-clamp-analysis/blob/master/patch%20clamp%20analysis-demo.ipynb
+##### Biphasic voltage train demo code: http://nbviewer.jupyter.org/github/yungkuo/patch-clamp-analysis/blob/master/patch%20clamp%20analysis-biphasic-demo.ipynb
